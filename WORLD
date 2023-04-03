@@ -1,0 +1,38 @@
+{
+  "name": "Alara",
+  "world_desc": "A vast, sprawling world filled with adventure and danger around every corner. You're just one of many who have set out to explore its hidden wonders and uncover the secrets it holds.",
+  "continents": [
+    {
+      "continent_name": "Pangea",
+      "desc": "The largest of the continents, home to massive mountain ranges and lush forests."
+    },
+    {
+      "continent_name": "Aurora",
+      "desc": "A land of ice and snow, dotted with glacier-carved valleys and home to rare creatures like polar bears."
+    },
+    {
+      "continent_name": "Solaris",
+      "desc": "Home to vast deserts and ancient ruins, Solaris is a place where legends come to life."
+    },
+    {
+      "continent_name": "Onyx",
+      "desc": "This continent is a shadowy land filled with mysterious ruins and hidden secrets. It's a place that few dare to explore."
+    },
+    {
+      "continent_name": "Nova Terra",
+      "desc": "A continent of fire and brimstone, Nova Terra is home to active volcanoes and lava fields."
+    },
+    {
+      "continent_name": "Aetherius",
+      "desc": "A continent of floating islands, Aetherius is a land of magic and wonder. It's home to creatures never seen before."
+    },
+    {
+      "continent_name": "Luna",
+      "desc": "Home to vast oceans and islands, Luna is a place of exploration and adventure. Its beaches are unlike anything you've ever seen."
+    },
+    {
+      "continent_name": "Arcturus",
+      "desc": "The smallest of the continents, Arcturus is a land of ice and tundra, home to creatures that have evolved to survive in extreme cold. It's a place of great beauty and raw power."
+    }
+  ]
+}
